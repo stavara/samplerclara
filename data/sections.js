@@ -6,8 +6,8 @@ var sections = {
             {name: "myucjc", url: "https://myucjc.ucjc.edu/home"},
             {name: "blackboard", url: "https://ucjc.blackboard.com/ultra/course"},
 	    {name: "biblioteca", url: "https://www.ucjc.edu/la-universidad/alumnos/biblioteca/"},
-            {name: "?", url: "https://aula.uoc.edu/courses/36297/modules"},
-            {name: "?", url: "https://aula.uoc.edu/courses/35758/modules"}]},
+            {name: "mail", url: "https://outlook.office365.com/mail/"},
+            {name: "alejandria", url: "#"}]},
 
     development: {
         label: "~/dev",
